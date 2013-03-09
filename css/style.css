@@ -1,0 +1,61 @@
+
+#map {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+#map_canvas {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+#search-menu {
+    background-color: #FF6600;
+    position: absolute;
+    top: 15px;
+    left: 100px;
+    width: 583px;
+    height: 60px;
+    padding: 10px;
+    border-radius: 7px;
+    opacity: 0.8;
+    border: solid 1px #912301;
+}
+
+select { 
+    height: 35px; 
+    padding: 6px; 
+    font-size: 15px; 
+}
+
+#search-menu #neighborhood {
+    margin-left: 15px;
+}
+
+#search-menu #hangout {
+    margin-left: 10px;
+}
+
+#sdhangouts {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1B1B6E;
+}
+
+.error-msg.area {
+    position: absolute;
+    left: 137px;
+    bottom: 10px;
+    display: none;
+}
+
+.error-msg.venue {
+    position: absolute;
+    right: 140px;
+    bottom: 10px;
+    display: none;
+}
