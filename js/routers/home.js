@@ -7,7 +7,7 @@ define([
         var Router = Backbone.Router.extend({
 
             initialize: function() {
-                Backbone.history.start({pushState: true, root:'/sdhangouts/'});
+                Backbone.history.start({pushState: true, root:'/'});
             },
 
             routes: {
