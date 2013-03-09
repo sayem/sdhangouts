@@ -5,6 +5,8 @@ http://sdhangouts.com
 
 San Diego hot spots on a Google Maps interface. Search around and find something to do this weekend. 
 
+Inspired by the [San Diego stereotype map] (http://www.sdcitybeat.com/sandiego/blog-1139-san-diego-stereotype-map.html).
+
 
 LICENSE
 -------
